@@ -9,7 +9,7 @@
 /**
  *  SVGPan library 1.2.2
  * ======================
- *
+ *    Test Test
  * Given an unique existing element with id "viewport" (or when missing, the
  * first g-element), including the library into any SVG adds the following
  * capabilities:
